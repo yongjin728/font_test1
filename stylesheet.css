@@ -3,7 +3,7 @@
 
 
 @font-face {
-    font-family:'Tlab레트로라이프 B';
+    font-family:'Tlab레트로라이프 B', Tlab레트로라이프;
     src: url('https://github.com/yongjin728/font_test1/raw/main/tlabretrolifeb-webfont.woff2') format('woff2'),
          url('https://github.com/yongjin728/font_test1/raw/main/tlabretrolifeb-webfont.woff') format('woff');
     font-weight: normal;
